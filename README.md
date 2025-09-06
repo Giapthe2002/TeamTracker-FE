@@ -55,7 +55,8 @@ A full-stack web app to **create, assign, and track team tasks** with role-based
    npm run dev
 
 ## 📸 Demo
-![Demo](assets/demo.gif)
+[![Demo](assets/demo.gif)](https://github.com/user-attachments/assets/5978226f-6da1-4624-8f90-98ad7e1cdd30)
+
 
 
 
