@@ -56,6 +56,8 @@ A full-stack web app to **create, assign, and track team tasks** with role-based
 
 ## 📸 Demo
 https://github.com/user-attachments/assets/18ce9f4d-bfec-4f85-8e94-9e451e7cc358
+https://github.com/user-attachments/assets/f61337f8-f8df-49bc-8ffe-40dd30bcc605
+https://github.com/user-attachments/assets/d8bb8310-607d-4f23-9b7c-fa9b04e3a47c
 
 
 
