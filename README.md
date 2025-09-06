@@ -39,3 +39,19 @@ A full-stack web app to **create, assign, and track team tasks** with role-based
 - **DB**: MongoDB (Mongoose)  
 - **Charts**: any React charting lib (Recharts)  
 - **Build/Dev**: ESLint + Prettier, dotenv, concurrently
+
+## ⚙️ Installation
+1. Clone the repository
+   ```bash
+   git clone https://github.com/Giapthe2002/TeamTracker-FE
+2. Install dependencies for frontend
+   npm install
+3. Setup environment variables (.env.example -> .env)
+   MONGO_URI=your_mongodb_connection_string
+   JWT_SECRET=your_secret_key
+   PORT=5000
+4. Run the development servers
+   cd TeamTracker-FE
+   npm run dev
+
+   📸 Demo
