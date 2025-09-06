@@ -44,15 +44,16 @@ A full-stack web app to **create, assign, and track team tasks** with role-based
 1. Clone the repository
    ```bash
    git clone https://github.com/Giapthe2002/TeamTracker-FE
-2. Install dependencies for frontend
+2. Install dependencies for frontend <br>
    npm install
-3. Setup environment variables (.env.example -> .env)
-   MONGO_URI=your_mongodb_connection_string
-   JWT_SECRET=your_secret_key
+3. Setup environment variables (.env.example -> .env) <br>
+   MONGO_URI=your_mongodb_connection_string <br>
+   JWT_SECRET=your_secret_key <br>
    PORT=5000
-4. Run the development servers
-   cd TeamTracker-FE
+4. Run the development servers <br>
+   cd TeamTracker-FE <br>
    npm run dev
 
 ## 📸 Demo
+
 
